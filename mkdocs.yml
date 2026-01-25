@@ -1,8 +1,8 @@
 site_name: QMG-Wiki
 site_description: Knowledge base and resources for the Quantum Materials Group — including standard operating procedures, PhD thesis templates, and analysis scripts.
-site_url: https://quantum-materials-group.github.io/QMG-wiki/
-repo_url: https://github.com/quantum-materials-group/QMG-wiki
-repo_name: quantum-materials-group/QMG-wiki
+site_url: https://o-niki-ri.github.io/QMGwiki/
+repo_url: https://github.com/o-niki-ri/QMGwiki
+repo_name: o-niki-ri/QMGwiki
 
 theme:
   name: material
@@ -59,7 +59,7 @@ markdown_extensions:
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/quantum-materials-group
+      link: https://github.com/o-niki-ri/QMGwiki
   generator: false
 
 nav:
