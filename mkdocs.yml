@@ -1,0 +1,76 @@
+site_name: QMG-Wiki
+site_description: Knowledge base and resources for the Quantum Materials Group — including standard operating procedures, PhD thesis templates, and analysis scripts.
+site_url: https://quantum-materials-group.github.io/QMG-wiki/
+repo_url: https://github.com/quantum-materials-group/QMG-wiki
+repo_name: quantum-materials-group/QMG-wiki
+
+theme:
+  name: material
+  palette:
+    # Light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: deep purple
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    # Dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: deep purple
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+    - content.code.annotate
+  icon:
+    repo: fontawesome/brands/github
+
+plugins:
+  - search
+  - tags
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.tabbed:
+      alternate_style: true
+  - tables
+  - attr_list
+  - md_in_html
+  - toc:
+      permalink: true
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/quantum-materials-group
+  generator: false
+
+nav:
+  - Home: index.md
+  - Getting Started:
+      - Overview: getting-started/index.md
+  - PhD Template:
+      - Setup Guide: phd-template/index.md
+  - Python Scripts:
+      - Overview: python-scripts/index.md
+  - Downloads:
+      - All Resources: downloads/index.md
+
+copyright: "&copy; Quantum Materials Group"
