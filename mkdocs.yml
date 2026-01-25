@@ -38,7 +38,6 @@ theme:
 
 plugins:
   - search
-  - tags
 
 markdown_extensions:
   - admonition
@@ -50,11 +49,17 @@ markdown_extensions:
   - pymdownx.snippets
   - pymdownx.tabbed:
       alternate_style: true
+  - pymdownx.arithmatex:
+      generic: true
   - tables
   - attr_list
   - md_in_html
   - toc:
       permalink: true
+
+extra_javascript:
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
 
 extra:
   social:
@@ -64,13 +69,19 @@ extra:
 
 nav:
   - Home: index.md
-  - Getting Started:
-      - Overview: getting-started/index.md
-  - PhD Template:
-      - Setup Guide: phd-template/index.md
-  - Python Scripts:
-      - Overview: python-scripts/index.md
-  - Downloads:
-      - All Resources: downloads/index.md
+  - SOPs:
+      - Fabrication Methods: sops/fabrication.md
+      - Photoluminescence: sops/photoluminescence.md
+      - Data Processing: sops/data-processing.md
+      - IR Lab: sops/ir-lab.md
+      - Fitting Functions: sops/fitting-functions.md
+      - Notes: sops/notes.md
+  - Resources:
+      - PhD Template: phd-template/index.md
+      - Python Scripts: python-scripts/index.md
+      - Managing References: resources/references.md
+      - Orders & Shipping: resources/orders-shipping.md
+      - Sports Hall: resources/sports-hall.md
+  - Contributing: contributing.md
 
-copyright: "&copy; Quantum Materials Group"
+copyright: "&copy; Quantum Materials Group — University of Technology Sydney"
