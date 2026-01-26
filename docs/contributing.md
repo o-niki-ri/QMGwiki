@@ -2,7 +2,12 @@
 
 This wiki is built with **MkDocs** using the **Material theme** and hosted on GitHub Pages. Changes pushed to the `main` branch are automatically deployed.
 
-The first step is to consider whether your file should be an addition to an existing SOP, or should be the start of a new SOP tree. Let's explore the difference.
+The first step is to consider whether your file should be an addition to an existing SOP, or should be the start of a new SOP tree.
+
+Whether you want to update a page or make a new one, you will first have to navigate to the `docs` folder in the [QMG Wiki](https://o-niki-ri.github.io/QMGwiki/).
+
+![Navigate to docs](_static/docs-nav.png)
+
 
 ---
 
