@@ -8,7 +8,7 @@ Whether you want to update a page or make a new one, you will first have to navi
 
 ![Navigate to docs](_static/docs-nav.png)
 
-This line is being added
+
 ---
 
 ## Adding to an Existing File
