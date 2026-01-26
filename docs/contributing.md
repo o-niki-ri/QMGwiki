@@ -2,7 +2,7 @@
 
 This wiki is built with **MkDocs** using the **Material theme** and hosted on GitHub Pages. Changes pushed to the `main` branch are automatically deployed.
 
-The first step is to consider whether your file should be an addition to an existing SOP, or should be the start of a new SOP tree.
+The first step is to consider whether your file should be an addition to an existing SOP, or should be the start of a new SOP tree. You should use `.md` (Markdown) syntax. The formatting can be found [below](#markdown-syntax).
 
 Whether you want to update a page or make a new one, you will first have to navigate to the `docs` folder in the [QMG Wiki](https://o-niki-ri.github.io/QMGwiki/).
 
@@ -57,46 +57,48 @@ After committing, you'll return to the file view. You should see your commit mes
 
 Prepare your document offline as much as possible before adding it to the wiki. Once ready, follow these steps:
 
-**Step 1:** Navigate to the docs folder
+**Step 1:** Navigate to the folder where you want to create the file
 
-![Step 1](_static/add-to-new/add-to-new-1.png)
+From the `docs` folder, navigate to the appropriate subfolder (e.g., `sops` for standard operating procedures).
 
-**Step 2:** Click "Add file"
+![Navigate to the target folder](_static/add-to-new/navigate-to-folder.png)
 
-![Step 2](_static/add-to-new/add-to-new-2.png)
+**Step 2:** Click "Add file" → "Create new file"
 
-**Step 3:** Create your new file
+Click the **"Add file"** dropdown button in the top-right corner, then select **"Create new file"**.
 
-![Step 3](_static/add-to-new/add-to-new-3.png)
+![Click Add file and Create new file](_static/add-to-new/create-new-file.png)
 
-**Step 4:** Write your content
+**Step 3:** Name your file and write your content
 
-![Step 4](_static/add-to-new/add-to-new-4.png){ width="50%" }
+Enter a filename ending in `.md` (e.g., `my-new-sop.md`), then write your content using Markdown syntax.
 
-**Step 5:** Commit the new file
+**Step 4:** Commit your new file
 
-![Step 5](_static/add-to-new/add-to-new-5.png)
+The commit process is the same as for editing an existing file. See [Adding to an Existing File](#adding-to-an-existing-file) for detailed instructions on committing.
 
-**Step 6:** Update `mkdocs.yml`
+**Step 5:** Update `mkdocs.yml` to add your page to the navigation
 
 !!! warning "Don't skip this step!"
     If you don't add your page to the `nav:` section in `mkdocs.yml`, it won't appear in the navigation menu.
 
-Open `mkdocs.yml` in the repository root and add your new page to the `nav:` section:
+Navigate back to the repository root by clicking **"QMGwiki"** in the breadcrumb at the top of the page. Find and click on **`mkdocs.yml`**.
 
-```yaml
-nav:
-  - Home: index.md
-  - SOPs:
-      - Fabrication Methods: sops/fabrication.md
-      - Your New Page: sops/your-new-page.md  # Add your page here
-```
+![Find mkdocs.yml in repository root](_static/add-to-new/find-mkdocs-yml.png)
 
-Commit this change as well.
+You'll see the configuration file. Look for the `nav:` section which defines the wiki's navigation menu.
 
-**Step 7:** Verify it appears on the wiki
+![View mkdocs.yml content](_static/add-to-new/view-mkdocs-yml.png)
 
-![Step 7](_static/add-to-new/add-to-new-6.png){ width="70%" }
+Click the edit button (pencil icon), then add your new page to the appropriate section in the `nav:` list. Follow the existing format - indent with spaces and use the pattern `- Page Title: path/to/file.md`.
+
+![Edit mkdocs.yml to add your page](_static/add-to-new/edit-mkdocs-yml.png)
+
+Commit this change using the same process as before.
+
+**Step 6:** Verify it appears on the wiki
+
+After a few minutes, your new page should appear in the navigation menu on the [QMG Wiki](https://o-niki-ri.github.io/QMGwiki/).
 
 ---
 
