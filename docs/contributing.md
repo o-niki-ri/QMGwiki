@@ -13,31 +13,43 @@ Whether you want to update a page or make a new one, you will first have to navi
 
 ## Adding to an Existing File
 
-Open that file, make changes, commit those changes, and push it to the main branch.
+To update an existing page, you'll edit the file directly on GitHub, then save ("commit") your changes.
 
-**Step 1:** Navigate to the file on GitHub
+**Step 1:** Click on the file you want to edit
 
-![Step 1](_static/add-to-existing/add-to-existing-1.png)
+In the `docs` folder, find and click on the file you want to modify. Files end in `.md` (Markdown format).
 
-**Step 2:** Click the edit button
+![Select the file to edit](_static/add-to-existing/select-file.png)
 
-![Step 2](_static/add-to-existing/add-to-existing-2.png)
+**Step 2:** View the file and click the edit button
+
+You'll see a preview of the file's contents. To make changes, click the **pencil icon** (edit button) in the top-right corner of the file view.
+
+![View file and find edit button](_static/add-to-existing/view-file.png)
 
 **Step 3:** Make your changes
 
-![Step 3](_static/add-to-existing/add-to-existing-3.png)
+GitHub will switch to edit mode, showing the raw Markdown text. Make your edits directly in this text editor. You can use the "Preview" tab to see how your changes will look.
 
-**Step 4:** Write a commit message
+![Edit the file content](_static/add-to-existing/edit-file.png)
 
-![Step 4](_static/add-to-existing/add-to-existing-4.png){ width="60%" }
+**Step 4:** Click "Commit changes"
 
-**Step 5:** Commit changes
+When you're done editing, click the green **"Commit changes..."** button in the top-right corner.
 
-![Step 5](_static/add-to-existing/add-to-existing-5.png){ width="60%" }
+![Click commit changes button](_static/add-to-existing/click-commit.png)
 
-**Step 6:** Verify your changes
+**Step 5:** Write a commit message and confirm
 
-![Step 6](_static/add-to-existing/add-to-existing-6.png){ width="60%" }
+A dialog will appear asking for a **commit message** - this is a short description of what you changed (e.g., "Fix typo in fabrication steps" or "Add new section on safety"). Make sure **"Commit directly to the main branch"** is selected, then click **"Commit changes"**.
+
+![Fill in commit message and confirm](_static/add-to-existing/commit-dialog.png)
+
+**Step 6:** Verify your changes were saved
+
+After committing, you'll return to the file view. You should see your commit message appear at the top, confirming your changes were saved. The wiki will automatically update within a few minutes.
+
+![Verify the commit was successful](_static/add-to-existing/verify-commit.png)
 
 ---
 
