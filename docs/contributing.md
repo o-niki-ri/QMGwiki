@@ -1,5 +1,7 @@
 # How to Add a New Page
 
+This wiki is built with **MkDocs** using the **Material theme** and hosted on GitHub Pages. Changes pushed to the `main` branch are automatically deployed.
+
 The first step is to consider whether your file should be an addition to an existing SOP, or should be the start of a new SOP tree. Let's explore the difference.
 
 ---
@@ -58,9 +60,26 @@ Prepare your document offline as much as possible before adding it to the wiki. 
 
 ![Step 5](_static/add-to-new/add-to-new-5.png)
 
-**Step 6:** Verify it appears
+**Step 6:** Update `mkdocs.yml`
 
-![Step 6](_static/add-to-new/add-to-new-6.png){ width="70%" }
+!!! warning "Don't skip this step!"
+    If you don't add your page to the `nav:` section in `mkdocs.yml`, it won't appear in the navigation menu.
+
+Open `mkdocs.yml` in the repository root and add your new page to the `nav:` section:
+
+```yaml
+nav:
+  - Home: index.md
+  - SOPs:
+      - Fabrication Methods: sops/fabrication.md
+      - Your New Page: sops/your-new-page.md  # Add your page here
+```
+
+Commit this change as well.
+
+**Step 7:** Verify it appears on the wiki
+
+![Step 7](_static/add-to-new/add-to-new-6.png){ width="70%" }
 
 ---
 
@@ -110,6 +129,21 @@ Images should be stored in `docs/_static/`. Either directly or in a folder for m
 !!! tip
     This is a tip box.
 ```
+
+---
+
+---
+
+## Local Preview (Optional)
+
+To preview changes locally before pushing:
+
+```bash
+pip install mkdocs-material
+mkdocs serve
+```
+
+Then open `http://127.0.0.1:8000` in your browser.
 
 ---
 
