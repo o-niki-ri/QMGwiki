@@ -73,6 +73,8 @@ Click the **"Add file"** dropdown button in the top-right corner, then select **
 
 Enter a filename ending in `.md` (e.g., `my-new-sop.md`), then write your content using Markdown syntax.
 
+![Name your file and write content](_static/add-to-new/write-content.png)
+
 **Step 4:** Commit your new file
 
 The commit process is the same as for editing an existing file. See [Adding to an Existing File](#adding-to-an-existing-file) for detailed instructions on committing.
