@@ -1,6 +1,9 @@
 # Member Access
 
-Welcome to the member-access section of the QMG Wiki. This area contains resources restricted to group members.
+This area contains resources restricted to group members. Each page is password-protected — you will be prompted for the group password the first time you open a page. After entering it once, access is remembered for 30 days.
 
-!!! info "Password Protected"
-    Pages in this section are encrypted and require a password to view. If you don't have the password, please contact a group administrator.
+If you don't have the password, please contact a group administrator.
+
+## Pages
+
+- [hBN Thickness Database](hbn-thickness.md)

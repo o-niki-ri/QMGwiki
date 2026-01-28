@@ -8,7 +8,7 @@ theme:
     # Light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: indigo
+      primary: blue
       accent: blue
       toggle:
         icon: material/brightness-7
@@ -16,7 +16,7 @@ theme:
     # Dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: indigo
+      primary: blue
       accent: blue
       toggle:
         icon: material/brightness-4
@@ -87,9 +87,7 @@ nav:
       - Managing References: resources/references.md
       - Orders & Shipping: resources/orders-shipping.md
       - Sports Hall: resources/sports-hall.md
-  - Member Access:
-      - Overview: member-access/index.md
-      - hBN Thickness Database: member-access/hbn-thickness.md
+  - Member Access: member-access/index.md
   - Contributing: contributing.md
 
-copyright: "&copy; Quantum Materials Group — University of Technology Sydney"
+copyright: "&copy; Quantum Materials and Nanophotonics Group — University of Technology Sydney"
