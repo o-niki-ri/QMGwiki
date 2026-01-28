@@ -91,6 +91,8 @@ nav:
   - Member Access:
       - Overview: member-access/index.md
       - hBN Thickness Database: member-access/hbn-thickness.md
+      - New Students: member-access/new-students.md
+      - Conferences: member-access/conferences.md
   - Contributing: contributing.md
 
 copyright: "&copy; Quantum Materials and Nanophotonics Group — University of Technology Sydney"
