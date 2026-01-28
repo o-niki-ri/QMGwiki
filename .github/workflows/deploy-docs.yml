@@ -52,7 +52,7 @@ jobs:
           find ./site/member-access -name "*.html" | while read -r f; do
             DIR=$(dirname "$f")
             npx staticrypt "$f" \
-                --remember 30 \
+                --remember 1 \
                 --short \
                 --salt "$SALT" \
                 --template-color-primary "#003D6B" \
@@ -61,7 +61,7 @@ jobs:
                 --template-instructions "This page is restricted to group members. Enter the password to continue." \
                 --template-button "Unlock" \
                 --template-placeholder "Group password" \
-                --template-remember "Remember me for 30 days" \
+                --template-remember "Remember me for 1 day" \
                 --template-error "Incorrect password. Please try again." \
                 -d "$DIR"
             echo "Encrypted: $f"

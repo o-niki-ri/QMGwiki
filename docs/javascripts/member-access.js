@@ -1,5 +1,9 @@
 (function() {
-  var isLoggedIn = !!localStorage.getItem("staticrypt_passphrase");
+  // Logged in if: remember-me token exists, OR we're on a decrypted member-access page
+  // (if the page has MkDocs nav, it's decrypted — the StatiCrypt password form replaces everything)
+  var hasToken = !!localStorage.getItem("staticrypt_passphrase");
+  var onMemberPage = window.location.pathname.indexOf("/member-access/") !== -1;
+  var isLoggedIn = hasToken || onMemberPage;
 
   function setup() {
     var items = document.querySelectorAll('.md-nav--primary > .md-nav__list > .md-nav__item');
@@ -35,29 +39,13 @@
   }
 
   // Force full page load for member-access links (encrypted pages break instant nav)
-  // Also append a return URL so we can redirect back after decryption
   document.addEventListener('click', function(e) {
     var link = e.target.closest('a[href*="member-access"]');
     if (!link) return;
     e.stopPropagation();
     e.preventDefault();
-    var target = link.href;
-    // Store current page so we can return after login
-    if (!isLoggedIn) {
-      sessionStorage.setItem("staticrypt_return_url", window.location.href);
-    }
-    window.location.href = target;
+    window.location.href = link.href;
   }, true);
-
-  // If we just came back from a member-access page and are now logged in,
-  // check if there's a return URL to go back to
-  if (isLoggedIn) {
-    var returnUrl = sessionStorage.getItem("staticrypt_return_url");
-    if (returnUrl && window.location.pathname.indexOf("/member-access/") !== -1) {
-      sessionStorage.removeItem("staticrypt_return_url");
-      window.location.replace(returnUrl);
-    }
-  }
 
   setup();
   if (typeof document$ !== "undefined") {
