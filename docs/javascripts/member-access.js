@@ -1,6 +1,5 @@
 (function() {
-  var SALT = "95213e6b999e5687ce3bd0ee8f3d4579";
-  var isLoggedIn = !!localStorage.getItem("staticrypt_passphrase_" + SALT);
+  var isLoggedIn = !!localStorage.getItem("staticrypt_passphrase");
 
   function setup() {
     var items = document.querySelectorAll('.md-nav--primary > .md-nav__list > .md-nav__item');
@@ -35,14 +34,30 @@
     });
   }
 
-  // Force full page load for all member-access links (encrypted pages break instant nav)
+  // Force full page load for member-access links (encrypted pages break instant nav)
+  // Also append a return URL so we can redirect back after decryption
   document.addEventListener('click', function(e) {
     var link = e.target.closest('a[href*="member-access"]');
     if (!link) return;
     e.stopPropagation();
     e.preventDefault();
-    window.location.href = link.href;
+    var target = link.href;
+    // Store current page so we can return after login
+    if (!isLoggedIn) {
+      sessionStorage.setItem("staticrypt_return_url", window.location.href);
+    }
+    window.location.href = target;
   }, true);
+
+  // If we just came back from a member-access page and are now logged in,
+  // check if there's a return URL to go back to
+  if (isLoggedIn) {
+    var returnUrl = sessionStorage.getItem("staticrypt_return_url");
+    if (returnUrl && window.location.pathname.indexOf("/member-access/") !== -1) {
+      sessionStorage.removeItem("staticrypt_return_url");
+      window.location.replace(returnUrl);
+    }
+  }
 
   setup();
   if (typeof document$ !== "undefined") {
