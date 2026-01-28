@@ -5,181 +5,135 @@ Reference images of hBN flakes at known thicknesses on various substrates, captu
 !!! info "Source"
     This data is maintained in the [hBN Thickness Database Google Sheet](https://docs.google.com/spreadsheets/d/1iu5RVd8hsVXJHK75PFxclYcb9eC-lBtWNBcgpm0jxj0/edit?gid=1392952977#gid=1392952977).
 
-## 285 nm SiO2
+Select your substrate below:
 
-<div class="hbn-table" markdown>
+=== "285 nm SiO$_2$"
 
-| Thickness (nm) | Colour | Image | Comments |
-|:-:|:-:|:-:|:--|
-| 10 | <span style="display:inline-block;width:40px;height:25px;background:#56836f;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_0_0.jpg" width="250"> |  |
-| 35 | <span style="display:inline-block;width:40px;height:25px;background:#fafe16;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_0_1.jpg" width="250"> |  |
-| 60 | <span style="display:inline-block;width:40px;height:25px;background:#eed200;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_0_2.jpg" width="250"> |  |
-| 80 | <span style="display:inline-block;width:40px;height:25px;background:#fda509;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_0_3.jpg" width="250"> |  |
-| 90 | <span style="display:inline-block;width:40px;height:25px;background:#efef01;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_0_4.jpg" width="250"> |  |
-| 90 | <span style="display:inline-block;width:40px;height:25px;background:#fdb801;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_0_5.jpg" width="250"> |  |
-| 100 | <span style="display:inline-block;width:40px;height:25px;background:#e0814a;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_0_6.jpg" width="250"> |  |
-| 100 | <span style="display:inline-block;width:40px;height:25px;background:#e17e69;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_0_7.jpg" width="250"> |  |
-| 110 | <span style="display:inline-block;width:40px;height:25px;background:#df836e;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_0_8.jpg" width="250"> |  |
-| 110 | <span style="display:inline-block;width:40px;height:25px;background:#eb8872;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_0_9.jpg" width="250"> |  |
-| 120 | <span style="display:inline-block;width:40px;height:25px;background:#b5977b;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_0_10.jpg" width="250"> |  |
-| 130 | <span style="display:inline-block;width:40px;height:25px;background:#7cb64f;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_0_11.jpg" width="250"> |  |
-| 150 | <span style="display:inline-block;width:40px;height:25px;background:#80bf21;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_0_12.jpg" width="250"> |  |
-| 180 | <span style="display:inline-block;width:40px;height:25px;background:#cbbf01;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_0_13.jpg" width="250"> |  |
-| 250 | <span style="display:inline-block;width:40px;height:25px;background:#e1855b;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_0_14.jpg" width="250"> |  |
-| ~250 | <span style="display:inline-block;width:40px;height:25px;background:#e69241;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_0_15.jpg" width="250"> |  |
-| ~800-900 | <span style="display:inline-block;width:40px;height:25px;background:#d2bc29;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_0_16.jpg" width="250"> |  |
+    | Thickness (nm) | Colour | Image | Comments |
+    |:-:|:-:|:-:|:--|
+    | 10 | <span style="display:inline-block;width:40px;height:25px;background:#56836f;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_0_0.jpg" width="200"> | |
+    | 35 | <span style="display:inline-block;width:40px;height:25px;background:#fafe16;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_0_1.jpg" width="200"> | |
+    | 60 | <span style="display:inline-block;width:40px;height:25px;background:#eed200;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_0_2.jpg" width="200"> | |
+    | 80 | <span style="display:inline-block;width:40px;height:25px;background:#fda509;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_0_3.jpg" width="200"> | |
+    | 90 | <span style="display:inline-block;width:40px;height:25px;background:#efef01;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_0_4.jpg" width="200"> | |
+    | 90 | <span style="display:inline-block;width:40px;height:25px;background:#fdb801;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_0_5.jpg" width="200"> | |
+    | 100 | <span style="display:inline-block;width:40px;height:25px;background:#e0814a;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_0_6.jpg" width="200"> | |
+    | 100 | <span style="display:inline-block;width:40px;height:25px;background:#e17e69;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_0_7.jpg" width="200"> | |
+    | 110 | <span style="display:inline-block;width:40px;height:25px;background:#df836e;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_0_8.jpg" width="200"> | |
+    | 110 | <span style="display:inline-block;width:40px;height:25px;background:#eb8872;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_0_9.jpg" width="200"> | |
+    | 120 | <span style="display:inline-block;width:40px;height:25px;background:#b5977b;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_0_10.jpg" width="200"> | |
+    | 130 | <span style="display:inline-block;width:40px;height:25px;background:#7cb64f;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_0_11.jpg" width="200"> | |
+    | 150 | <span style="display:inline-block;width:40px;height:25px;background:#80bf21;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_0_12.jpg" width="200"> | |
+    | 180 | <span style="display:inline-block;width:40px;height:25px;background:#cbbf01;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_0_13.jpg" width="200"> | |
+    | 250 | <span style="display:inline-block;width:40px;height:25px;background:#e1855b;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_0_14.jpg" width="200"> | |
+    | ~250 | <span style="display:inline-block;width:40px;height:25px;background:#e69241;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_0_15.jpg" width="200"> | |
+    | ~800–900 | <span style="display:inline-block;width:40px;height:25px;background:#d2bc29;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_0_16.jpg" width="200"> | |
 
-</div>
+=== "90 nm SiO$_2$"
 
-## 90 nm SiO2
+    | Thickness (nm) | Colour | Image | Comments |
+    |:-:|:-:|:-:|:--|
+    | 25 | <span style="display:inline-block;width:40px;height:25px;background:#95cebe;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_567138401_0.jpg" width="200"> | CR &#124; 12 on scope &#124; 30% brightness &#124; 0.7 gamma |
+    | 25 | <span style="display:inline-block;width:40px;height:25px;background:#6ae4fc;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_567138401_1.jpg" width="200"> | 12 on scope &#124; 30% brightness &#124; 0.7 gamma |
+    | 94 | <span style="display:inline-block;width:40px;height:25px;background:#fedf25;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_567138401_2.jpg" width="200"> | CR &#124; 12 on scope &#124; 30% brightness &#124; 0.7 gamma |
+    | 94 | <span style="display:inline-block;width:40px;height:25px;background:#f3df75;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_567138401_2.jpg" width="200"> | 12 on scope &#124; 30% brightness &#124; 0.7 gamma |
+    | 113 | <span style="display:inline-block;width:40px;height:25px;background:#fd978c;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_567138401_2.jpg" width="200"> | CR &#124; 12 on scope &#124; 30% brightness &#124; 0.7 gamma |
+    | 125 | <span style="display:inline-block;width:40px;height:25px;background:#e782af;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_567138401_3.jpg" width="200"> | CR &#124; 12 on scope &#124; 30% brightness &#124; 0.7 gamma |
+    | 125 | <span style="display:inline-block;width:40px;height:25px;background:#b59dfe;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_567138401_4.jpg" width="200"> | 12 on scope &#124; 30% brightness &#124; 0.7 gamma |
+    | 140 | <span style="display:inline-block;width:40px;height:25px;background:#a695e6;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_567138401_5.jpg" width="200"> | CR &#124; 12 on scope &#124; 30% brightness &#124; 0.7 gamma |
+    | 140 | <span style="display:inline-block;width:40px;height:25px;background:#7cb0fe;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_567138401_5.jpg" width="200"> | 12 on scope &#124; 30% brightness &#124; 0.7 gamma |
+    | 146 | <span style="display:inline-block;width:40px;height:25px;background:#7ca7e2;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_567138401_5.jpg" width="200"> | CR &#124; 12 on scope &#124; 30% brightness &#124; 0.7 gamma |
+    | 146 | <span style="display:inline-block;width:40px;height:25px;background:#57c6fe;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_567138401_5.jpg" width="200"> | 12 on scope &#124; 30% brightness &#124; 0.7 gamma |
+    | 158 | <span style="display:inline-block;width:40px;height:25px;background:#79fdd9;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_567138401_5.jpg" width="200"> | CR &#124; 12 on scope &#124; 30% brightness &#124; 0.7 gamma |
+    | 194 | <span style="display:inline-block;width:40px;height:25px;background:#fdfd7b;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_567138401_6.jpg" width="200"> | CR &#124; 12 on scope &#124; 30% brightness &#124; 0.7 gamma |
+    | 236 | <span style="display:inline-block;width:40px;height:25px;background:#bb82fc;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_567138401_6.jpg" width="200"> | conditions unknown |
+    | 248 | <span style="display:inline-block;width:40px;height:25px;background:#fda8d0;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_567138401_7.jpg" width="200"> | CR &#124; 12 on scope &#124; 30% brightness &#124; 0.7 gamma |
+    | 248 | <span style="display:inline-block;width:40px;height:25px;background:#cdc7fd;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_567138401_8.jpg" width="200"> | 12 on scope &#124; 30% brightness &#124; 0.7 gamma |
+    | 270 | <span style="display:inline-block;width:40px;height:25px;background:#fddcfb;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_567138401_9.jpg" width="200"> | CR &#124; 12 on scope &#124; 30% brightness &#124; 0.7 gamma |
+    | 270 | <span style="display:inline-block;width:40px;height:25px;background:#fdf2fd;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_567138401_10.jpg" width="200"> | 12 on scope &#124; 30% brightness &#124; 0.7 gamma |
+    | 292 | <span style="display:inline-block;width:40px;height:25px;background:#a8fd5f;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_567138401_11.jpg" width="200"> | CR &#124; 12 on scope &#124; 30% brightness &#124; 0.7 gamma |
+    | 292 | <span style="display:inline-block;width:40px;height:25px;background:#73fedd;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_567138401_11.jpg" width="200"> | 12 on scope &#124; 30% brightness &#124; 0.7 gamma |
+    | 361 | <span style="display:inline-block;width:40px;height:25px;background:#fef0de;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_567138401_12.jpg" width="200"> | CR &#124; 12 on scope &#124; 30% brightness &#124; 0.7 gamma |
+    | 373 | <span style="display:inline-block;width:40px;height:25px;background:#ffeea5;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_567138401_12.jpg" width="200"> | CR &#124; 12 on scope &#124; 30% brightness &#124; 0.7 gamma |
+    | 373 | <span style="display:inline-block;width:40px;height:25px;background:#f6f698;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_567138401_12.jpg" width="200"> | 12 on scope &#124; 30% brightness &#124; 0.7 gamma |
+    | 400 | <span style="display:inline-block;width:40px;height:25px;background:#d2a1cb;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_567138401_12.jpg" width="200"> | conditions unknown – measurement is approx |
+    | 423 | <span style="display:inline-block;width:40px;height:25px;background:#d2e481;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_567138401_13.jpg" width="200"> | CR &#124; 12 on scope &#124; 30% brightness &#124; 0.7 gamma |
+    | 423 | <span style="display:inline-block;width:40px;height:25px;background:#8ffcfb;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_567138401_13.jpg" width="200"> | 12 on scope &#124; 30% brightness &#124; 0.7 gamma |
+    | 460 | <span style="display:inline-block;width:40px;height:25px;background:#feca9a;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_567138401_13.jpg" width="200"> | CR &#124; 12 on scope &#124; 30% brightness &#124; 0.7 gamma |
+    | 460 | <span style="display:inline-block;width:40px;height:25px;background:#e2eafe;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_567138401_13.jpg" width="200"> | 12 on scope &#124; 30% brightness &#124; 0.7 gamma |
+    | 500 | <span style="display:inline-block;width:40px;height:25px;background:#a5b6d7;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_567138401_13.jpg" width="200"> | conditions unknown – measurement is approx |
+    | 521 | <span style="display:inline-block;width:40px;height:25px;background:#eaf994;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_567138401_14.jpg" width="200"> | CR &#124; 12 on scope &#124; 30% brightness &#124; 0.7 gamma |
+    | 617 | <span style="display:inline-block;width:40px;height:25px;background:#feed9f;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_567138401_15.jpg" width="200"> | CR &#124; 12 on scope &#124; 30% brightness &#124; 0.7 gamma |
+    | 650 | <span style="display:inline-block;width:40px;height:25px;background:#8c99b0;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_567138401_15.jpg" width="200"> | conditions unknown – measurement is approx |
+    | 700 | <span style="display:inline-block;width:40px;height:25px;background:#9fa6bf;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_567138401_16.jpg" width="200"> | conditions unknown – measurement is approx |
+    | 749 | <span style="display:inline-block;width:40px;height:25px;background:#edc88d;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_567138401_17.jpg" width="200"> | CR &#124; 12 on scope &#124; 30% brightness &#124; 0.7 gamma |
+    | 749 | <span style="display:inline-block;width:40px;height:25px;background:#abdcef;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_567138401_18.jpg" width="200"> | 12 on scope &#124; 30% brightness &#124; 0.7 gamma |
+    | 1559 | <span style="display:inline-block;width:40px;height:25px;background:#eddb94;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_567138401_19.jpg" width="200"> | CR &#124; 12 on scope &#124; 30% brightness &#124; 0.7 gamma |
+    | 1559 | <span style="display:inline-block;width:40px;height:25px;background:#a5effb;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_567138401_19.jpg" width="200"> | 12 on scope &#124; 30% brightness &#124; 0.7 gamma |
+    | 2064 | <span style="display:inline-block;width:40px;height:25px;background:#fde59a;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_567138401_19.jpg" width="200"> | CR &#124; 12 on scope &#124; 30% brightness &#124; 0.7 gamma |
+    | 2064 | <span style="display:inline-block;width:40px;height:25px;background:#b3f3fd;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_567138401_19.jpg" width="200"> | 12 on scope &#124; 30% brightness &#124; 0.7 gamma |
+    | 3196 | <span style="display:inline-block;width:40px;height:25px;background:#fbec9d;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_567138401_19.jpg" width="200"> | CR &#124; 12 on scope &#124; 30% brightness &#124; 0.7 gamma |
+    | 3196 | <span style="display:inline-block;width:40px;height:25px;background:#c5fefd;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_567138401_20.jpg" width="200"> | 12 on scope &#124; 30% brightness &#124; 0.7 gamma |
 
-<div class="hbn-table" markdown>
+=== "1 µm SiO$_2$"
 
-| Thickness (nm) | Colour | Image | Comments |
-|:-:|:-:|:-:|:--|
-| 25 | <span style="display:inline-block;width:40px;height:25px;background:#95cebe;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_567138401_0.jpg" width="250"> | CR | 12 on scope | 30% brightness |0.7 gamma |
-| 25 | <span style="display:inline-block;width:40px;height:25px;background:#6ae4fc;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_567138401_1.jpg" width="250"> | 12 on scope | 30% brightness |0.7 gamma |
-| 94 | <span style="display:inline-block;width:40px;height:25px;background:#fedf25;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_567138401_2.jpg" width="250"> | CR | 12 on scope | 30% brightness |0.7 gamma |
-| 94 | <span style="display:inline-block;width:40px;height:25px;background:#f3df75;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_567138401_2.jpg" width="250"> | 12 on scope | 30% brightness |0.7 gamma |
-| 113 | <span style="display:inline-block;width:40px;height:25px;background:#fd978c;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_567138401_2.jpg" width="250"> | CR | 12 on scope | 30% brightness |0.7 gamma |
-| 125 | <span style="display:inline-block;width:40px;height:25px;background:#e782af;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_567138401_3.jpg" width="250"> | CR | 12 on scope | 30% brightness |0.7 gamma |
-| 125 | <span style="display:inline-block;width:40px;height:25px;background:#b59dfe;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_567138401_4.jpg" width="250"> | 12 on scope | 30% brightness |0.7 gamma |
-| 140 | <span style="display:inline-block;width:40px;height:25px;background:#a695e6;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_567138401_5.jpg" width="250"> | CR | 12 on scope | 30% brightness |0.7 gamma |
-| 140 | <span style="display:inline-block;width:40px;height:25px;background:#7cb0fe;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_567138401_5.jpg" width="250"> | 12 on scope | 30% brightness |0.7 gamma |
-| 146 | <span style="display:inline-block;width:40px;height:25px;background:#7ca7e2;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_567138401_5.jpg" width="250"> | CR | 12 on scope | 30% brightness |0.7 gamma |
-| 146 | <span style="display:inline-block;width:40px;height:25px;background:#57c6fe;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_567138401_5.jpg" width="250"> | 12 on scope | 30% brightness |0.7 gamma |
-| 158 | <span style="display:inline-block;width:40px;height:25px;background:#79fdd9;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_567138401_5.jpg" width="250"> | CR | 12 on scope | 30% brightness |0.7 gamma |
-| 194 | <span style="display:inline-block;width:40px;height:25px;background:#fdfd7b;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_567138401_6.jpg" width="250"> | CR | 12 on scope | 30% brightness |0.7 gamma |
-| 236 | <span style="display:inline-block;width:40px;height:25px;background:#bb82fc;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_567138401_6.jpg" width="250"> | conditions unknown |
-| 248 | <span style="display:inline-block;width:40px;height:25px;background:#fda8d0;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_567138401_7.jpg" width="250"> | CR | 12 on scope | 30% brightness |0.7 gamma |
-| 248 | <span style="display:inline-block;width:40px;height:25px;background:#cdc7fd;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_567138401_8.jpg" width="250"> | 12 on scope | 30% brightness |0.7 gamma |
-| 270 | <span style="display:inline-block;width:40px;height:25px;background:#fddcfb;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_567138401_9.jpg" width="250"> | CR | 12 on scope | 30% brightness |0.7 gamma |
-| 270 | <span style="display:inline-block;width:40px;height:25px;background:#fdf2fd;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_567138401_10.jpg" width="250"> | 12 on scope | 30% brightness |0.7 gamma |
-| 292 | <span style="display:inline-block;width:40px;height:25px;background:#a8fd5f;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_567138401_11.jpg" width="250"> | CR | 12 on scope | 30% brightness |0.7 gamma |
-| 292 | <span style="display:inline-block;width:40px;height:25px;background:#73fedd;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_567138401_11.jpg" width="250"> | 12 on scope | 30% brightness |0.7 gamma |
-| 361 | <span style="display:inline-block;width:40px;height:25px;background:#fef0de;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_567138401_12.jpg" width="250"> | CR | 12 on scope | 30% brightness |0.7 gamma |
-| 373 | <span style="display:inline-block;width:40px;height:25px;background:#ffeea5;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_567138401_12.jpg" width="250"> | CR | 12 on scope | 30% brightness |0.7 gamma |
-| 373 | <span style="display:inline-block;width:40px;height:25px;background:#f6f698;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_567138401_12.jpg" width="250"> | 12 on scope | 30% brightness |0.7 gamma |
-| 400 | <span style="display:inline-block;width:40px;height:25px;background:#d2a1cb;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_567138401_12.jpg" width="250"> | conditions unknown - measurement is approx |
-| 423 | <span style="display:inline-block;width:40px;height:25px;background:#d2e481;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_567138401_13.jpg" width="250"> | CR | 12 on scope | 30% brightness |0.7 gamma |
-| 423 | <span style="display:inline-block;width:40px;height:25px;background:#8ffcfb;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_567138401_13.jpg" width="250"> | 12 on scope | 30% brightness |0.7 gamma |
-| 460 | <span style="display:inline-block;width:40px;height:25px;background:#feca9a;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_567138401_13.jpg" width="250"> | CR | 12 on scope | 30% brightness |0.7 gamma |
-| 460 | <span style="display:inline-block;width:40px;height:25px;background:#e2eafe;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_567138401_13.jpg" width="250"> | 12 on scope | 30% brightness |0.7 gamma |
-| 500 | <span style="display:inline-block;width:40px;height:25px;background:#a5b6d7;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_567138401_13.jpg" width="250"> | conditions unknown - measurement is approx |
-| 521 | <span style="display:inline-block;width:40px;height:25px;background:#eaf994;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_567138401_14.jpg" width="250"> | CR | 12 on scope | 30% brightness |0.7 gamma |
-| 617 | <span style="display:inline-block;width:40px;height:25px;background:#feed9f;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_567138401_15.jpg" width="250"> | CR | 12 on scope | 30% brightness |0.7 gamma |
-| 650 | <span style="display:inline-block;width:40px;height:25px;background:#8c99b0;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_567138401_15.jpg" width="250"> | conditions unknown - measurement is approx |
-| 700 | <span style="display:inline-block;width:40px;height:25px;background:#9fa6bf;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_567138401_16.jpg" width="250"> | conditions unknown - measurement is approx |
-| 749 | <span style="display:inline-block;width:40px;height:25px;background:#edc88d;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_567138401_17.jpg" width="250"> | CR | 12 on scope | 30% brightness |0.7 gamma |
-| 749 | <span style="display:inline-block;width:40px;height:25px;background:#abdcef;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_567138401_18.jpg" width="250"> | 12 on scope | 30% brightness |0.7 gamma |
-| 1559 | <span style="display:inline-block;width:40px;height:25px;background:#eddb94;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_567138401_19.jpg" width="250"> | CR | 12 on scope | 30% brightness |0.7 gamma |
-| 1559 | <span style="display:inline-block;width:40px;height:25px;background:#a5effb;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_567138401_19.jpg" width="250"> | 12 on scope | 30% brightness |0.7 gamma |
-| 2064 | <span style="display:inline-block;width:40px;height:25px;background:#fde59a;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_567138401_19.jpg" width="250"> | CR | 12 on scope | 30% brightness |0.7 gamma |
-| 2064 | <span style="display:inline-block;width:40px;height:25px;background:#b3f3fd;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_567138401_19.jpg" width="250"> | 12 on scope | 30% brightness |0.7 gamma |
-| 3196 | <span style="display:inline-block;width:40px;height:25px;background:#fbec9d;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_567138401_19.jpg" width="250"> | CR | 12 on scope | 30% brightness |0.7 gamma |
-| 3196 | <span style="display:inline-block;width:40px;height:25px;background:#c5fefd;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_567138401_20.jpg" width="250"> | 12 on scope | 30% brightness |0.7 gamma |
-| grimace | <span style="display:inline-block;width:40px;height:25px;background:#a349a4;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_567138401_21.jpg" width="250"> | thiCCC boi |
+    | Thickness (nm) | Colour | Image | Comments |
+    |:-:|:-:|:-:|:--|
+    | 70 | <span style="display:inline-block;width:40px;height:25px;background:#a1b7a0;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_1392952977_0.jpg" width="200"> | CR &#124; 12 on scope &#124; 35% brightness &#124; 0.6 gamma |
+    | 123 | <span style="display:inline-block;width:40px;height:25px;background:#7c858e;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_1392952977_1.jpg" width="200"> | |
+    | 145 | <span style="display:inline-block;width:40px;height:25px;background:#7f9b9e;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_1392952977_3.jpg" width="200"> | CR &#124; 12 on scope &#124; 35% brightness &#124; 0.6 gamma |
+    | 145 | <span style="display:inline-block;width:40px;height:25px;background:#8ca5a4;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_1392952977_4.jpg" width="200"> | CR &#124; 12 on scope &#124; 35% brightness &#124; 0.6 gamma |
+    | 189 | <span style="display:inline-block;width:40px;height:25px;background:#9eb999;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_1392952977_5.jpg" width="200"> | CR &#124; 12 on scope &#124; 35% brightness &#124; 0.6 gamma |
+    | 200 | <span style="display:inline-block;width:40px;height:25px;background:#aab995;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_1392952977_6.jpg" width="200"> | CR &#124; 12 on scope &#124; 35% brightness &#124; 0.6 gamma |
+    | 218 | <span style="display:inline-block;width:40px;height:25px;background:#9fa69f;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_1392952977_7.jpg" width="200"> | CR &#124; 12 on scope &#124; 35% brightness &#124; 0.6 gamma |
+    | 226 | <span style="display:inline-block;width:40px;height:25px;background:#b1b39c;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_1392952977_8.jpg" width="200"> | CR &#124; 12 on scope &#124; 35% brightness &#124; 0.6 gamma |
+    | 230 | <span style="display:inline-block;width:40px;height:25px;background:#aba39a;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_1392952977_9.jpg" width="200"> | CR &#124; 12 on scope &#124; 35% brightness &#124; 0.6 gamma |
+    | 272 | <span style="display:inline-block;width:40px;height:25px;background:#829b9e;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_1392952977_10.jpg" width="200"> | CR &#124; 12 on scope &#124; 35% brightness &#124; 0.6 gamma |
+    | 295 | <span style="display:inline-block;width:40px;height:25px;background:#86b38f;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_1392952977_11.jpg" width="200"> | CR &#124; 12 on scope &#124; 35% brightness &#124; 0.6 gamma |
+    | 341 | <span style="display:inline-block;width:40px;height:25px;background:#a6a8af;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_1392952977_12.jpg" width="200"> | CR &#124; 12 on scope &#124; 35% brightness &#124; 0.6 gamma |
+    | 350 | <span style="display:inline-block;width:40px;height:25px;background:#a9aaaf;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_1392952977_13.jpg" width="200"> | CR &#124; 12 on scope &#124; 35% brightness &#124; 0.6 gamma |
+    | 360 | <span style="display:inline-block;width:40px;height:25px;background:#aea9af;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_1392952977_14.jpg" width="200"> | CR &#124; 12 on scope &#124; 35% brightness &#124; 0.6 gamma |
+    | 437 | <span style="display:inline-block;width:40px;height:25px;background:#81a48d;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_1392952977_15.jpg" width="200"> | CR &#124; 12 on scope &#124; 35% brightness &#124; 0.6 gamma |
+    | 484 | <span style="display:inline-block;width:40px;height:25px;background:#abadad;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_1392952977_16.jpg" width="200"> | CR &#124; 12 on scope &#124; 35% brightness &#124; 0.6 gamma |
+    | 570 | <span style="display:inline-block;width:40px;height:25px;background:#89b19d;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_1392952977_17.jpg" width="200"> | CR &#124; 12 on scope &#124; 35% brightness &#124; 0.6 gamma |
+    | 5000 | <span style="display:inline-block;width:40px;height:25px;background:#896460;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_1392952977_18.jpg" width="200"> | CR &#124; 12 on scope &#124; 35% brightness &#124; 0.6 gamma |
 
-</div>
+=== "Si"
 
-## 1 um SiO2
-
-<div class="hbn-table" markdown>
-
-| Thickness (nm) | Colour | Image | Comments |
-|:-:|:-:|:-:|:--|
-| 70 | <span style="display:inline-block;width:40px;height:25px;background:#a1b7a0;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_1392952977_0.jpg" width="250"> | CR | 12 on scope | 35% brightness |0.6 gamma |
-| 123 | <span style="display:inline-block;width:40px;height:25px;background:#7c858e;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_1392952977_1.jpg" width="250"> |  |
-| 145 | <span style="display:inline-block;width:40px;height:25px;background:#7f9b9e;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_1392952977_3.jpg" width="250"> | CR | 12 on scope | 35% brightness |0.6 gamma |
-| 145 | <span style="display:inline-block;width:40px;height:25px;background:#8ca5a4;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_1392952977_4.jpg" width="250"> | CR | 12 on scope | 35% brightness |0.6 gamma |
-| 189 | <span style="display:inline-block;width:40px;height:25px;background:#9eb999;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_1392952977_5.jpg" width="250"> | CR | 12 on scope | 35% brightness |0.6 gamma |
-| 200 | <span style="display:inline-block;width:40px;height:25px;background:#aab995;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_1392952977_6.jpg" width="250"> | CR | 12 on scope | 35% brightness |0.6 gamma |
-| 218 | <span style="display:inline-block;width:40px;height:25px;background:#9fa69f;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_1392952977_7.jpg" width="250"> | CR | 12 on scope | 35% brightness |0.6 gamma |
-| 226 | <span style="display:inline-block;width:40px;height:25px;background:#b1b39c;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_1392952977_8.jpg" width="250"> | CR | 12 on scope | 35% brightness |0.6 gamma |
-| 230 | <span style="display:inline-block;width:40px;height:25px;background:#aba39a;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_1392952977_9.jpg" width="250"> | CR | 12 on scope | 35% brightness |0.6 gamma |
-| 272 | <span style="display:inline-block;width:40px;height:25px;background:#829b9e;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_1392952977_10.jpg" width="250"> | CR | 12 on scope | 35% brightness |0.6 gamma |
-| 295 | <span style="display:inline-block;width:40px;height:25px;background:#86b38f;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_1392952977_11.jpg" width="250"> | CR | 12 on scope | 35% brightness |0.6 gamma |
-| 341 | <span style="display:inline-block;width:40px;height:25px;background:#a6a8af;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_1392952977_12.jpg" width="250"> | CR | 12 on scope | 35% brightness |0.6 gamma |
-| 350 | <span style="display:inline-block;width:40px;height:25px;background:#a9aaaf;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_1392952977_13.jpg" width="250"> | CR | 12 on scope | 35% brightness |0.6 gamma |
-| 360 | <span style="display:inline-block;width:40px;height:25px;background:#aea9af;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_1392952977_14.jpg" width="250"> | CR | 12 on scope | 35% brightness |0.6 gamma |
-| 437 | <span style="display:inline-block;width:40px;height:25px;background:#81a48d;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_1392952977_15.jpg" width="250"> | CR | 12 on scope | 35% brightness |0.6 gamma |
-| 484 | <span style="display:inline-block;width:40px;height:25px;background:#abadad;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_1392952977_16.jpg" width="250"> | CR | 12 on scope | 35% brightness |0.6 gamma |
-| 570 | <span style="display:inline-block;width:40px;height:25px;background:#89b19d;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_1392952977_17.jpg" width="250"> | CR | 12 on scope | 35% brightness |0.6 gamma |
-| 5UM | <span style="display:inline-block;width:40px;height:25px;background:#896460;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_1392952977_18.jpg" width="250"> | CR | 12 on scope | 35% brightness |0.6 gamma |
-
-</div>
-
-## Si
-
-<div class="hbn-table" markdown>
-
-| Thickness (nm) | Colour | Image | Comments |
-|:-:|:-:|:-:|:--|
-| 30 | <span style="display:inline-block;width:40px;height:25px;background:#352a4b;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_1566766963_0.jpg" width="250"> | CR | 12 on scope | 35% brightness |0.6 gamma |
-| 37 | <span style="display:inline-block;width:40px;height:25px;background:#2d437b;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_1566766963_2.jpg" width="250"> | CR | 12 on scope | 35% brightness |0.6 gamma |
-| 73 | <span style="display:inline-block;width:40px;height:25px;background:#82b1c3;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_1566766963_4.jpg" width="250"> | CR | 12 on scope | 35% brightness |0.6 gamma |
-| 84 | <span style="display:inline-block;width:40px;height:25px;background:#97b7ab;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_1566766963_6.jpg" width="250"> | CR | 12 on scope | 35% brightness |0.6 gamma |
-| 89 | <span style="display:inline-block;width:40px;height:25px;background:#9fbdbd;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_1566766963_8.jpg" width="250"> | CR | 12 on scope | 35% brightness |0.6 gamma |
-| 100 | <span style="display:inline-block;width:40px;height:25px;background:#98aaa0;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_1566766963_10.jpg" width="250"> | CR | 12 on scope | 35% brightness |0.6 gamma |
-| 115 | <span style="display:inline-block;width:40px;height:25px;background:#b4a264;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_1566766963_12.jpg" width="250"> | CR | 12 on scope | 35% brightness |0.6 gamma |
-| 117 | <span style="display:inline-block;width:40px;height:25px;background:#b2a071;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_1566766963_13.jpg" width="250"> | CR | 12 on scope | 35% brightness |0.6 gamma |
-| 132 | <span style="display:inline-block;width:40px;height:25px;background:#b67f5a;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_1566766963_15.jpg" width="250"> | CR | 12 on scope | 35% brightness |0.6 gamma |
-| 140 | <span style="display:inline-block;width:40px;height:25px;background:#ab6b65;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_1566766963_16.jpg" width="250"> | CR | 12 on scope | 35% brightness |0.6 gamma |
-| 144 | <span style="display:inline-block;width:40px;height:25px;background:#a0617d;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_1566766963_18.jpg" width="250"> | CR | 12 on scope | 35% brightness |0.6 gamma |
-| 150 | <span style="display:inline-block;width:40px;height:25px;background:#8a5492;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_1566766963_20.jpg" width="250"> | CR | 12 on scope | 35% brightness |0.6 gamma |
-| 163 | <span style="display:inline-block;width:40px;height:25px;background:#7352c3;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_1566766963_22.jpg" width="250"> | CR | 12 on scope | 35% brightness |0.6 gamma |
-| 170 | <span style="display:inline-block;width:40px;height:25px;background:#4960d5;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_1566766963_24.jpg" width="250"> | CR | 12 on scope | 35% brightness |0.6 gamma |
-| 195 | <span style="display:inline-block;width:40px;height:25px;background:#3097b8;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_1566766963_26.jpg" width="250"> | CR | 12 on scope | 35% brightness |0.6 gamma |
-| 205 | <span style="display:inline-block;width:40px;height:25px;background:#3ea3ae;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_1566766963_28.jpg" width="250"> | CR | 12 on scope | 35% brightness |0.6 gamma |
-| 220 | <span style="display:inline-block;width:40px;height:25px;background:#6e9c67;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_1566766963_30.jpg" width="250"> | CR | 12 on scope | 35% brightness |0.6 gamma |
-| 220 | <span style="display:inline-block;width:40px;height:25px;background:#79b07a;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_1566766963_32.jpg" width="250"> | CR | 12 on scope | 35% brightness |0.6 gamma |
-| 230 | <span style="display:inline-block;width:40px;height:25px;background:#a4a85e;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_1566766963_34.jpg" width="250"> | CR | 12 on scope | 35% brightness |0.6 gamma |
-| 280 | <span style="display:inline-block;width:40px;height:25px;background:#915cb2;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_1566766963_36.jpg" width="250"> | CR | 12 on scope | 35% brightness |0.6 gamma |
-| 300 | <span style="display:inline-block;width:40px;height:25px;background:#4c6a85;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_1566766963_38.jpg" width="250"> | CR | 12 on scope | 35% brightness |0.6 gamma |
-| 320 | <span style="display:inline-block;width:40px;height:25px;background:#4f754b;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_1566766963_40.jpg" width="250"> | CR | 12 on scope | 35% brightness |0.6 gamma |
-| 330 | <span style="display:inline-block;width:40px;height:25px;background:#39766d;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_1566766963_41.jpg" width="250"> | CR | 12 on scope | 35% brightness |0.6 gamma |
-| 350 | <span style="display:inline-block;width:40px;height:25px;background:#43784e;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_1566766963_42.jpg" width="250"> | CR | 12 on scope | 35% brightness |0.6 gamma |
-| 377 | <span style="display:inline-block;width:40px;height:25px;background:#836283;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_1566766963_43.jpg" width="250"> | CR | 12 on scope | 35% brightness |0.6 gamma |
-| 390 | <span style="display:inline-block;width:40px;height:25px;background:#9b8393;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_1566766963_44.jpg" width="250"> | CR | 12 on scope | 35% brightness |0.6 gamma |
-| 400 | <span style="display:inline-block;width:40px;height:25px;background:#876281;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_1566766963_45.jpg" width="250"> | CR | 12 on scope | 35% brightness |0.6 gamma |
-| 415 | <span style="display:inline-block;width:40px;height:25px;background:#755e7c;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_1566766963_46.jpg" width="250"> | CR | 12 on scope | 35% brightness |0.6 gamma |
-| 420 | <span style="display:inline-block;width:40px;height:25px;background:#86618e;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_1566766963_47.jpg" width="250"> | CR | 12 on scope | 35% brightness |0.6 gamma |
-| 430 | <span style="display:inline-block;width:40px;height:25px;background:#53886b;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_1566766963_48.jpg" width="250"> | CR | 12 on scope | 35% brightness |0.6 gamma |
-| 475 | <span style="display:inline-block;width:40px;height:25px;background:#4f866c;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_1566766963_49.jpg" width="250"> | CR | 12 on scope | 35% brightness |0.6 gamma |
-| 530 | <span style="display:inline-block;width:40px;height:25px;background:#9189a0;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_1566766963_50.jpg" width="250"> | CR | 12 on scope | 35% brightness |0.6 gamma |
-| 550 | <span style="display:inline-block;width:40px;height:25px;background:#977a99;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_1566766963_51.jpg" width="250"> | CR | 12 on scope | 35% brightness |0.6 gamma |
-| 620 | <span style="display:inline-block;width:40px;height:25px;background:#69918c;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_1566766963_52.jpg" width="250"> | CR | 12 on scope | 35% brightness |0.6 gamma |
-| 900 | <span style="display:inline-block;width:40px;height:25px;background:#6a7f8d;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_1566766963_53.jpg" width="250"> | CR | 12 on scope | 35% brightness |0.6 gamma |
-
-</div>
-
-## Other
-
-<div class="hbn-table" markdown>
-
-| Thickness (nm) | Colour | Image | Comments |
-|:-:|:-:|:-:|:--|
-| ottos holding pen | <span style="display:inline-block;width:40px;height:25px;background:#6ae4fc;border:1px solid #ccc;border-radius:3px;"></span> |  |  |
-| 25 | <span style="display:inline-block;width:40px;height:25px;background:#6ae4fc;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_1951263518_0.jpg" width="250"> | 12 on scope | 30% brightness |0.7 gamma |
-| 94 | <span style="display:inline-block;width:40px;height:25px;background:#f3df75;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_1951263518_1.jpg" width="250"> | 12 on scope | 30% brightness |0.7 gamma |
-| 125 | <span style="display:inline-block;width:40px;height:25px;background:#b59dfe;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_1951263518_1.jpg" width="250"> | 12 on scope | 30% brightness |0.7 gamma |
-| 140 | <span style="display:inline-block;width:40px;height:25px;background:#7cb0fe;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_1951263518_2.jpg" width="250"> | 12 on scope | 30% brightness |0.7 gamma |
-| 146 | <span style="display:inline-block;width:40px;height:25px;background:#57c6fe;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_1951263518_2.jpg" width="250"> | 12 on scope | 30% brightness |0.7 gamma |
-| 248 | <span style="display:inline-block;width:40px;height:25px;background:#cdc7fd;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_1951263518_2.jpg" width="250"> | 12 on scope | 30% brightness |0.7 gamma |
-| 270 | <span style="display:inline-block;width:40px;height:25px;background:#fdf2fd;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_1951263518_3.jpg" width="250"> | 12 on scope | 30% brightness |0.7 gamma |
-| 292 | <span style="display:inline-block;width:40px;height:25px;background:#73fedd;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_1951263518_4.jpg" width="250"> | 12 on scope | 30% brightness |0.7 gamma |
-| 373 | <span style="display:inline-block;width:40px;height:25px;background:#f6f698;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_1951263518_5.jpg" width="250"> | 12 on scope | 30% brightness |0.7 gamma |
-| 423 | <span style="display:inline-block;width:40px;height:25px;background:#8ffcfb;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_1951263518_5.jpg" width="250"> | 12 on scope | 30% brightness |0.7 gamma |
-| 460 | <span style="display:inline-block;width:40px;height:25px;background:#e2eafe;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_1951263518_5.jpg" width="250"> | 12 on scope | 30% brightness |0.7 gamma |
-| 749 | <span style="display:inline-block;width:40px;height:25px;background:#abdcef;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_1951263518_5.jpg" width="250"> | 12 on scope | 30% brightness |0.7 gamma |
-| 1559 | <span style="display:inline-block;width:40px;height:25px;background:#a5effb;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_1951263518_6.jpg" width="250"> | 12 on scope | 30% brightness |0.7 gamma |
-| 2064 | <span style="display:inline-block;width:40px;height:25px;background:#b3f3fd;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_1951263518_6.jpg" width="250"> | 12 on scope | 30% brightness |0.7 gamma |
-| 3196 | <span style="display:inline-block;width:40px;height:25px;background:#c5fefd;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_1951263518_6.jpg" width="250"> | 12 on scope | 30% brightness |0.7 gamma |
-| 236 | <span style="display:inline-block;width:40px;height:25px;background:#bb82fc;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_1951263518_7.jpg" width="250"> | conditions unknown |
-| 400 | <span style="display:inline-block;width:40px;height:25px;background:#d2a1cb;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_1951263518_8.jpg" width="250"> | conditions unknown - measurement is approx |
-| 500 | <span style="display:inline-block;width:40px;height:25px;background:#a5b6d7;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_1951263518_9.jpg" width="250"> | conditions unknown - measurement is approx |
-| 650 | <span style="display:inline-block;width:40px;height:25px;background:#8c99b0;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_1951263518_10.jpg" width="250"> | conditions unknown - measurement is approx |
-| 700 | <span style="display:inline-block;width:40px;height:25px;background:#9fa6bf;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_1951263518_11.jpg" width="250"> | conditions unknown - measurement is approx |
-
-</div>
-
+    | Thickness (nm) | Colour | Image | Comments |
+    |:-:|:-:|:-:|:--|
+    | 30 | <span style="display:inline-block;width:40px;height:25px;background:#352a4b;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_1566766963_0.jpg" width="200"> | CR &#124; 12 on scope &#124; 35% brightness &#124; 0.6 gamma |
+    | 37 | <span style="display:inline-block;width:40px;height:25px;background:#2d437b;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_1566766963_2.jpg" width="200"> | CR &#124; 12 on scope &#124; 35% brightness &#124; 0.6 gamma |
+    | 73 | <span style="display:inline-block;width:40px;height:25px;background:#82b1c3;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_1566766963_4.jpg" width="200"> | CR &#124; 12 on scope &#124; 35% brightness &#124; 0.6 gamma |
+    | 84 | <span style="display:inline-block;width:40px;height:25px;background:#97b7ab;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_1566766963_6.jpg" width="200"> | CR &#124; 12 on scope &#124; 35% brightness &#124; 0.6 gamma |
+    | 89 | <span style="display:inline-block;width:40px;height:25px;background:#9fbdbd;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_1566766963_8.jpg" width="200"> | CR &#124; 12 on scope &#124; 35% brightness &#124; 0.6 gamma |
+    | 100 | <span style="display:inline-block;width:40px;height:25px;background:#98aaa0;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_1566766963_10.jpg" width="200"> | CR &#124; 12 on scope &#124; 35% brightness &#124; 0.6 gamma |
+    | 115 | <span style="display:inline-block;width:40px;height:25px;background:#b4a264;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_1566766963_12.jpg" width="200"> | CR &#124; 12 on scope &#124; 35% brightness &#124; 0.6 gamma |
+    | 117 | <span style="display:inline-block;width:40px;height:25px;background:#b2a071;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_1566766963_13.jpg" width="200"> | CR &#124; 12 on scope &#124; 35% brightness &#124; 0.6 gamma |
+    | 132 | <span style="display:inline-block;width:40px;height:25px;background:#b67f5a;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_1566766963_15.jpg" width="200"> | CR &#124; 12 on scope &#124; 35% brightness &#124; 0.6 gamma |
+    | 140 | <span style="display:inline-block;width:40px;height:25px;background:#ab6b65;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_1566766963_16.jpg" width="200"> | CR &#124; 12 on scope &#124; 35% brightness &#124; 0.6 gamma |
+    | 144 | <span style="display:inline-block;width:40px;height:25px;background:#a0617d;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_1566766963_18.jpg" width="200"> | CR &#124; 12 on scope &#124; 35% brightness &#124; 0.6 gamma |
+    | 150 | <span style="display:inline-block;width:40px;height:25px;background:#8a5492;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_1566766963_20.jpg" width="200"> | CR &#124; 12 on scope &#124; 35% brightness &#124; 0.6 gamma |
+    | 163 | <span style="display:inline-block;width:40px;height:25px;background:#7352c3;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_1566766963_22.jpg" width="200"> | CR &#124; 12 on scope &#124; 35% brightness &#124; 0.6 gamma |
+    | 170 | <span style="display:inline-block;width:40px;height:25px;background:#4960d5;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_1566766963_24.jpg" width="200"> | CR &#124; 12 on scope &#124; 35% brightness &#124; 0.6 gamma |
+    | 195 | <span style="display:inline-block;width:40px;height:25px;background:#3097b8;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_1566766963_26.jpg" width="200"> | CR &#124; 12 on scope &#124; 35% brightness &#124; 0.6 gamma |
+    | 205 | <span style="display:inline-block;width:40px;height:25px;background:#3ea3ae;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_1566766963_28.jpg" width="200"> | CR &#124; 12 on scope &#124; 35% brightness &#124; 0.6 gamma |
+    | 220 | <span style="display:inline-block;width:40px;height:25px;background:#6e9c67;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_1566766963_30.jpg" width="200"> | CR &#124; 12 on scope &#124; 35% brightness &#124; 0.6 gamma |
+    | 220 | <span style="display:inline-block;width:40px;height:25px;background:#79b07a;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_1566766963_32.jpg" width="200"> | CR &#124; 12 on scope &#124; 35% brightness &#124; 0.6 gamma |
+    | 230 | <span style="display:inline-block;width:40px;height:25px;background:#a4a85e;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_1566766963_34.jpg" width="200"> | CR &#124; 12 on scope &#124; 35% brightness &#124; 0.6 gamma |
+    | 280 | <span style="display:inline-block;width:40px;height:25px;background:#915cb2;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_1566766963_36.jpg" width="200"> | CR &#124; 12 on scope &#124; 35% brightness &#124; 0.6 gamma |
+    | 300 | <span style="display:inline-block;width:40px;height:25px;background:#4c6a85;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_1566766963_38.jpg" width="200"> | CR &#124; 12 on scope &#124; 35% brightness &#124; 0.6 gamma |
+    | 320 | <span style="display:inline-block;width:40px;height:25px;background:#4f754b;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_1566766963_40.jpg" width="200"> | CR &#124; 12 on scope &#124; 35% brightness &#124; 0.6 gamma |
+    | 330 | <span style="display:inline-block;width:40px;height:25px;background:#39766d;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_1566766963_41.jpg" width="200"> | CR &#124; 12 on scope &#124; 35% brightness &#124; 0.6 gamma |
+    | 350 | <span style="display:inline-block;width:40px;height:25px;background:#43784e;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_1566766963_42.jpg" width="200"> | CR &#124; 12 on scope &#124; 35% brightness &#124; 0.6 gamma |
+    | 377 | <span style="display:inline-block;width:40px;height:25px;background:#836283;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_1566766963_43.jpg" width="200"> | CR &#124; 12 on scope &#124; 35% brightness &#124; 0.6 gamma |
+    | 390 | <span style="display:inline-block;width:40px;height:25px;background:#9b8393;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_1566766963_44.jpg" width="200"> | CR &#124; 12 on scope &#124; 35% brightness &#124; 0.6 gamma |
+    | 400 | <span style="display:inline-block;width:40px;height:25px;background:#876281;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_1566766963_45.jpg" width="200"> | CR &#124; 12 on scope &#124; 35% brightness &#124; 0.6 gamma |
+    | 415 | <span style="display:inline-block;width:40px;height:25px;background:#755e7c;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_1566766963_46.jpg" width="200"> | CR &#124; 12 on scope &#124; 35% brightness &#124; 0.6 gamma |
+    | 420 | <span style="display:inline-block;width:40px;height:25px;background:#86618e;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_1566766963_47.jpg" width="200"> | CR &#124; 12 on scope &#124; 35% brightness &#124; 0.6 gamma |
+    | 430 | <span style="display:inline-block;width:40px;height:25px;background:#53886b;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_1566766963_48.jpg" width="200"> | CR &#124; 12 on scope &#124; 35% brightness &#124; 0.6 gamma |
+    | 475 | <span style="display:inline-block;width:40px;height:25px;background:#4f866c;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_1566766963_49.jpg" width="200"> | CR &#124; 12 on scope &#124; 35% brightness &#124; 0.6 gamma |
+    | 530 | <span style="display:inline-block;width:40px;height:25px;background:#9189a0;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_1566766963_50.jpg" width="200"> | CR &#124; 12 on scope &#124; 35% brightness &#124; 0.6 gamma |
+    | 550 | <span style="display:inline-block;width:40px;height:25px;background:#977a99;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_1566766963_51.jpg" width="200"> | CR &#124; 12 on scope &#124; 35% brightness &#124; 0.6 gamma |
+    | 620 | <span style="display:inline-block;width:40px;height:25px;background:#69918c;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_1566766963_52.jpg" width="200"> | CR &#124; 12 on scope &#124; 35% brightness &#124; 0.6 gamma |
+    | 900 | <span style="display:inline-block;width:40px;height:25px;background:#6a7f8d;border:1px solid #ccc;border-radius:3px;"></span> | <img src="../images/cellImage_1566766963_53.jpg" width="200"> | CR &#124; 12 on scope &#124; 35% brightness &#124; 0.6 gamma |
