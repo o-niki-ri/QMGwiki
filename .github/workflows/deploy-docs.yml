@@ -51,7 +51,8 @@ jobs:
           FILES=$(find ./site/member-access -name '*.html' -type f ! -path './site/member-access/index.html')
           COUNT=0
           for f in $FILES; do
-            npx staticrypt "$f" "$PRIVATE_PAGES_PASSWORD" \
+            npx staticrypt "$f" \
+              --password "$PRIVATE_PAGES_PASSWORD" \
               --remember 30 \
               --template-color-primary "#3f51b5" \
               --template-color-secondary "#303f9f" \
