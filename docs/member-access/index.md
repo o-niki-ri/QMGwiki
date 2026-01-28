@@ -6,4 +6,4 @@ If you don't have the password, please contact a group administrator.
 
 ## Pages
 
-- [hBN Thickness Database](hbn-thickness.md)
+- [hBN Thickness Database](hbn-thickness/)
