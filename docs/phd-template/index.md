@@ -25,7 +25,8 @@ Install these extensions in VS Code:
 
 ### 3. Download the Template
 
-[Download PhD Template :material-download:](../downloads/index.md){ .md-button .md-button--primary }
+[Download PhD Template :material-download:](https://github.com/o-niki-ri/QMGwiki/releases/download/v1.0/UTS-PhD-Template.zip){ .md-button .md-button--primary }
+[View on GitHub :material-github:](https://github.com/o-niki-ri/QMGwiki/releases/latest){ .md-button }
 
 ## Usage
 
