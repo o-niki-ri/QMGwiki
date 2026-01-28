@@ -4,17 +4,17 @@ Welcome to the Quantum Materials and Nanophotonics Group! This page covers every
 
 ## Getting Access
 
-??? info "Lab access and key cards"
+??? success "Lab access and key cards"
     _Details to be added._
 
-??? info "Group Slack channels"
+??? success "Group Slack channels"
     _Details to be added._
 
-??? info "Shared drives"
+??? success "Shared drives"
     - Google Drive (fleeting)
     - Z-drive (uni network)
 
-??? info "Software licences"
+??? success "Software licences"
     _Details to be added._
 
 ## Training

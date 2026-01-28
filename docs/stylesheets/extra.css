@@ -4,3 +4,22 @@
   --md-primary-fg-color--dark: #002a4a;
   --md-accent-fg-color: #003D6B;
 }
+
+:root {
+  --md-admonition-icon--success: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"/></svg>');
+}
+
+.md-typeset .admonition.success,
+.md-typeset details.success {
+  border-color: #7a9bb5;
+}
+
+.md-typeset .success > .admonition-title,
+.md-typeset .success > summary {
+  background-color: rgba(122, 155, 181, 0.1);
+}
+
+.md-typeset .success > .admonition-title::before,
+.md-typeset .success > summary::before {
+  background-color: #7a9bb5;
+}
