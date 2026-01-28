@@ -89,6 +89,7 @@ nav:
       - Sports Hall: resources/sports-hall.md
   - Member Access:
       - Overview: member-access/index.md
+      - hBN Thickness Database: member-access/hbn-thickness.md
   - Contributing: contributing.md
 
 copyright: "&copy; Quantum Materials Group — University of Technology Sydney"
