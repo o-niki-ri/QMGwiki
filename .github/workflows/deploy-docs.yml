@@ -51,14 +51,16 @@ jobs:
           FILES=$(find ./site/member-access -name '*.html' -type f ! -path './site/member-access/index.html')
           COUNT=0
           for f in $FILES; do
+            DIR=$(dirname "$f")
             npx staticrypt "$f" \
               --password "$PRIVATE_PAGES_PASSWORD" \
               --remember 30 \
+              --short \
               --template-color-primary "#3f51b5" \
               --template-color-secondary "#303f9f" \
               --template-title "Member Access" \
               --template-instructions "Enter the group password to view this page." \
-              -o "$f"
+              -d "$DIR"
             COUNT=$((COUNT + 1))
           done
           echo "Encrypted $COUNT member-access pages"
