@@ -48,7 +48,7 @@ jobs:
           STATICRYPT_PASSWORD: ${{ secrets.PRIVATE_PAGES_PASSWORD }}
         run: |
           npm install -g staticrypt
-          FILES=$(find ./site/member-access -name '*.html' -type f ! -path './site/member-access/index.html')
+          FILES=$(find ./site/member-access -name '*.html' -type f)
           COUNT=0
           for f in $FILES; do
             DIR=$(dirname "$f")
