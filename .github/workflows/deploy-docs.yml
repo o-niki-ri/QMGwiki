@@ -48,7 +48,7 @@ jobs:
           STATICRYPT_PASSWORD: ${{ secrets.PRIVATE_PAGES_PASSWORD }}
         run: |
           npm install -g staticrypt
-          SALT="qmg-member-access-salt-v1"
+          SALT="95213e6b999e5687ce3bd0ee8f3d4579"
           find ./site/member-access -name "*.html" | while read -r f; do
             DIR=$(dirname "$f")
             npx staticrypt "$f" \

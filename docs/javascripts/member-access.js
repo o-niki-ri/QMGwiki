@@ -1,5 +1,5 @@
 (function() {
-  var SALT = "qmg-member-access-salt-v1";
+  var SALT = "95213e6b999e5687ce3bd0ee8f3d4579";
   var isLoggedIn = !!localStorage.getItem("staticrypt_passphrase_" + SALT);
 
   function setup() {
