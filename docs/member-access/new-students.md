@@ -38,19 +38,26 @@ Welcome to the Quantum Materials and Nanophotonics Group! This page covers every
 ### Growth
 - Crystal growth techniques
 - Area-specific reading list
+- Materials and methods:
+    - _To be added: what works well, what to avoid_
 
 ### Spectroscopy
 - Photoluminescence, Raman, and related techniques
 - Area-specific reading list
+- Materials and methods:
+    - _To be added: what works well, what to avoid_
 
 ### Nanofabrication
 - Lithography, etching, and device fabrication
 - Area-specific reading list
+- Materials and methods:
+    - _To be added: what works well, what to avoid_
 
 ## Analysis
 
 - Setting up your analysis environment (Python, etc.)
 - Data management and naming conventions
+- Making figures for papers and presentations
 - Using the [hBN Thickness Database](../hbn-thickness/)
 
 ## Admin

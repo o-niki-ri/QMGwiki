@@ -23,3 +23,7 @@
 .md-typeset .success > summary::before {
   background-color: #7a9bb5;
 }
+
+.md-typeset .success > summary::after {
+  color: #7a9bb5;
+}

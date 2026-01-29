@@ -2,7 +2,7 @@
 
 Welcome to the **Quantum Materials Group** knowledge base.
 
-This wiki contains standard operating procedures, templates, and tools for used by members of the Quantum Materials and Nanophotonics Group at the University of Technology Sydney.
+This wiki contains standard operating procedures, templates, and tools used by members of the [Quantum Materials and Nanophotonics Group](https://www.uts.edu.au/about/locations-facilities/quantum-materials-and-nanophotonics) at the University of Technology Sydney.
 
 ---
 
