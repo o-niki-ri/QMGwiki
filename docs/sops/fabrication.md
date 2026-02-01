@@ -16,7 +16,7 @@ For big wafers use big containers.
 **Stuff you need:**
 
 - DI water (MilliQ)
-- Hot plate (100 deg C)
+- Hot plate (100 &deg;C)
 
 **Cupboard:**
 
@@ -29,9 +29,9 @@ For big wafers use big containers.
 
 **Steps:**
 
-1. To clean substrate: use IPA (Isopropyl Alcohol), either wipe with Kimtech or use spin coater and spray IPA.
+1. Clean the substrate (IPA)
 
-2. Select Program on spin coater with rpm ~4000 in vacuum:
+2. Select Program on spin coater with rpm ~4000 (recipe "4k60s") in vacuum:
 
    → Start
 
@@ -42,7 +42,7 @@ For big wafers use big containers.
 
    → Start
 
-4. Place substrate on hot plate for 1 min to *bake*.
+4. Place substrate on hot plate (100 &deg;C) for 1 min to *bake*.
 
 5. Place substrate on *marked mask* mask, coated side face down.
 
@@ -72,6 +72,30 @@ For big wafers use big containers.
 14. Check with microscope.
 
 ---
+## Planck (UV Photolithography)
+
+**Get ready beforehand:**
+- USB with PNG of the pattern (1920x1080px, no transparent background), e.g.:
+
+    ![Example pattern](../_static/planck-example.png){ width="300" }
+
+**Steps:**
+
+1. Clean the substrate (IPA)
+
+2. Mount the substrate onto an appropriate vacuum holder in the spin-coater. Make sure it's centred. Drop AZ 726 resist all over (about 3 drops, do not waste as we are poor). Select a recipe (e.g. "4k60s"):
+
+   → Start
+
+3. Place substrate on hot plate (100 &deg;C) for 1 min to *bake*.
+
+4. Check focus on the substrate to get a sharp image of the pattern. Don't forget to adjuct intensity of the UV light, the exposure, the cycle time, and and the number of cycles before exposing your substrate.
+
+5. Develop the polymer in the appropriate developer for ~15 s. Stop the development by submerging the wafer in water immediately.
+
+6. Dry surface with N₂, bottom side with Kimtech.
+
+---
 
 ## Oxygen Plasma Cleaning
 
@@ -93,7 +117,7 @@ For big wafers use big containers.
 
 ---
 
-## Chemical Vapour Deposition - SEKI
+## Chemical Vapour Deposition (CVD) - SEKI
 
 !!! note
     Please note that this is not a recipe for good growth of materials. It is to utilise the plasma for cleaning/defect activation.
