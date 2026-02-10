@@ -9,3 +9,4 @@ If you don't have the password, please check Slack.
 - [New Students](new-students/)
 - [hBN Thickness Database](hbn-thickness/)
 - [Conference Attendance Guidelines](conferences/)
+- [Equipment](equipment/)

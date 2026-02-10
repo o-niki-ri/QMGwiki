@@ -93,6 +93,9 @@ nav:
       - hBN Thickness Database: member-access/hbn-thickness.md
       - New Students: member-access/new-students.md
       - Conferences: member-access/conferences.md
+      - Equipment:
+          - Overview: member-access/equipment/index.md
+          - Vacuum Lab: member-access/equipment/vacuum-lab.md
   - Contributing: contributing.md
 
 copyright: "&copy; Quantum Materials and Nanophotonics Group — University of Technology Sydney"
